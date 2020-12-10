@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/natural-disaster-tracker/static/css/main.5dc372f4.chunk.css",
+    "main.js": "/natural-disaster-tracker/static/js/main.b6e6a49e.chunk.js",
+    "main.js.map": "/natural-disaster-tracker/static/js/main.b6e6a49e.chunk.js.map",
+    "runtime-main.js": "/natural-disaster-tracker/static/js/runtime-main.a9667afd.js",
+    "runtime-main.js.map": "/natural-disaster-tracker/static/js/runtime-main.a9667afd.js.map",
+    "static/js/2.a351a7ee.chunk.js": "/natural-disaster-tracker/static/js/2.a351a7ee.chunk.js",
+    "static/js/2.a351a7ee.chunk.js.map": "/natural-disaster-tracker/static/js/2.a351a7ee.chunk.js.map",
+    "static/js/3.514593ee.chunk.js": "/natural-disaster-tracker/static/js/3.514593ee.chunk.js",
+    "static/js/3.514593ee.chunk.js.map": "/natural-disaster-tracker/static/js/3.514593ee.chunk.js.map",
+    "index.html": "/natural-disaster-tracker/index.html",
+    "static/css/main.5dc372f4.chunk.css.map": "/natural-disaster-tracker/static/css/main.5dc372f4.chunk.css.map",
+    "static/js/2.a351a7ee.chunk.js.LICENSE.txt": "/natural-disaster-tracker/static/js/2.a351a7ee.chunk.js.LICENSE.txt",
+    "static/media/spinner.223e1344.gif": "/natural-disaster-tracker/static/media/spinner.223e1344.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9667afd.js",
+    "static/js/2.a351a7ee.chunk.js",
+    "static/css/main.5dc372f4.chunk.css",
+    "static/js/main.b6e6a49e.chunk.js"
+  ]
+}
