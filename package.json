@@ -2,6 +2,7 @@
   "name": "natural-disaster-tracker",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://shihastz.github.io/natural-disaster-tracker",
   "dependencies": {
     "@iconify/icons-mdi": "^1.0.154",
     "@iconify/react": "^1.1.3",
